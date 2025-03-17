@@ -101,3 +101,7 @@
 #img2 {
     margin: 15px 45px 35px 0;
 }
+
+a:visited {
+    color: #064b86;
+}
